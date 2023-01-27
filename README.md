@@ -3,8 +3,7 @@
 </div>
 <h1>
   
-I am a computer science student at Rey Juan Carlos University. I am particularly interested in machine learning and computer vision. My goal is to become a researcher in the field of artificial intelligence and contribute to solving important problems in society.
-   <font size="-1">This is smaller text.</font>
+I am a computer science student at Rey Juan Carlos University. My goal is to become a researcher in the field of artificial intelligence.
 </h1>
 
 
