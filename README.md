@@ -7,7 +7,7 @@ I am a computer science student at Rey Juan Carlos University. My goal is to bec
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Computer Science student <img src="https://user-images.githubusercontent.com/39005484/215209774-d75ea5a6-0632-41fa-92d8-8cc08892a7cf.png" width="30"> from Spain.
+I am a Computer Science student <img src="https://user-images.githubusercontent.com/39005484/215209774-d75ea5a6-0632-41fa-92d8-8cc08892a7cf.gif" width="30"> from Spain.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
