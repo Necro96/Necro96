@@ -14,7 +14,7 @@ I am a Computer Science student from Spain <img src="https://user-images.githubu
 
 - :zap: 私はレイ・ファン・カルロス大学の情報工学の学生です。特に機械学習とコンピュータービジョンに興味があります。私の目標は人工知能の分野での研究者になり、社会の重要な問題を解決するために貢献することです。
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marcos-méndez-pariente-601705244)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marcos-méndez-pariente-601705244)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
